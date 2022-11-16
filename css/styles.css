@@ -56,12 +56,12 @@ color: #FFFFFF ;
 }
 
 /*конец верхних кнопок*/
+
 .calendar-wrapper {
   background-color: aqua;
   width: 500px;
   height: 1000px;
 }
-
 
 .foto {
   max-width: 1170px;
@@ -75,7 +75,7 @@ color: #FFFFFF ;
 }
 
 .about-us {
-  width: 500px;
+  max-width: 500px;
   height: 270px;
   padding-left: 15px;
   /*background-color: red;*/
@@ -96,7 +96,7 @@ margin-bottom: 5px;
 
 .about-us p {
 color: #ffffff;
-width: 290px;
+max-width: 290px;
 font-weight: 800px;
 font-size: 22px;
 line-height: 27px;
